@@ -1,6 +1,8 @@
+import './navbar.css';
+
 const Navbar = () => {
     return (
-        <div>
+        <div className='navbar-kent'>
             <span className="text-3xl underline">Navbar</span>
         </div>
     );
